@@ -1,9 +1,10 @@
 <h1 align="center">Hi 👋, I'm Ayush Singh</h1>
 <h3 align="center">A passionate backend developer.</h3>
 
-- 🌱 I’m currently learning **Spring, Spring Boot, Microservices**
-
+- 🌱 I’m currently learning **Spring, Spring Boot, Microservices**  
 - 📫 How to reach me **info4ayush@gmail.com**
+
+---
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -17,6 +18,8 @@
 <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="LeetCode Profile" height="30" width="40" />
 </a>
 </p>
+
+---
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
@@ -45,3 +48,9 @@
 <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/>
 </a>
 </p>
+
+---
+<h3 align="left">📊 GitHub Languages:</h3>
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ayush422000&layout=compact&theme=tokyonight)
+
